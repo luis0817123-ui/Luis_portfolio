@@ -1,24 +1,35 @@
-# Luis Fernando González Ramírez — Portfolio
+# Luis Fernando González Ramírez
 
-Senior FullStack & AI Agents Architect portfolio (Mexico).
+**Senior Full Stack Developer** · Mexico City · Bilingual EN / ES
+
+### Live site
+
+**https://luis0817123-ui.github.io/Luis_portfolio/**
+
+---
+
+Personal portfolio: selected production projects, skills, experience, and contact.
 
 ## Stack
 
-- React 19 + Vite + TypeScript
-- Tailwind CSS v4
-- Bilingual EN / ES
+- React 19 + Vite + TypeScript  
+- Tailwind CSS v4  
+- GitHub Pages deploy via Actions  
 
-## Commands
+## Local development
 
 ```bash
 npm install
 npm run dev
+```
+
+Open `http://127.0.0.1:5175`.
+
+```bash
 npm run build
 ```
 
-Dev server defaults to `http://127.0.0.1:5175`.
+## Content
 
-## Customize
-
-Edit `src/data/portfolio.ts` for profile, skills, projects, experience, and copy.
-Replace `public/images/luis.jpg` to update the portrait.
+Edit `src/data/portfolio.ts` for profile, skills, projects, and copy.  
+Portrait: `public/images/luis.jpg`.
